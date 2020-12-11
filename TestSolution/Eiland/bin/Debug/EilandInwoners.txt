@@ -1,0 +1,6 @@
+V vogel1
+V vogel2
+V vogel3
+Z zoogdier1
+Z zoogdier2
+Z zoogdier3

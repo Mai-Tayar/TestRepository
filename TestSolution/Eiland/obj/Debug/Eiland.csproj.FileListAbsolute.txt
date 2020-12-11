@@ -1,0 +1,14 @@
+D:\Mai\VDAB\14.Extra\2.CSharp_DesignPatterns VS2019\Test\TestSolution\Eiland\bin\Debug\Eiland.exe.config
+D:\Mai\VDAB\14.Extra\2.CSharp_DesignPatterns VS2019\Test\TestSolution\Eiland\bin\Debug\Eiland.exe
+D:\Mai\VDAB\14.Extra\2.CSharp_DesignPatterns VS2019\Test\TestSolution\Eiland\bin\Debug\Eiland.pdb
+D:\Mai\VDAB\14.Extra\2.CSharp_DesignPatterns VS2019\Test\TestSolution\Eiland\obj\Debug\Eiland.csprojAssemblyReference.cache
+D:\Mai\VDAB\14.Extra\2.CSharp_DesignPatterns VS2019\Test\TestSolution\Eiland\obj\Debug\Eiland.csproj.CoreCompileInputs.cache
+D:\Mai\VDAB\14.Extra\2.CSharp_DesignPatterns VS2019\Test\TestSolution\Eiland\obj\Debug\Eiland.exe
+D:\Mai\VDAB\14.Extra\2.CSharp_DesignPatterns VS2019\Test\TestSolution\Eiland\obj\Debug\Eiland.pdb
+D:\Mai\VDAB\14.Extra\2.CSharp_DesignPatterns VS2019\Test2\TestSolution\Eiland\bin\Debug\Eiland.exe.config
+D:\Mai\VDAB\14.Extra\2.CSharp_DesignPatterns VS2019\Test2\TestSolution\Eiland\bin\Debug\Eiland.exe
+D:\Mai\VDAB\14.Extra\2.CSharp_DesignPatterns VS2019\Test2\TestSolution\Eiland\bin\Debug\Eiland.pdb
+D:\Mai\VDAB\14.Extra\2.CSharp_DesignPatterns VS2019\Test2\TestSolution\Eiland\obj\Debug\Eiland.csprojAssemblyReference.cache
+D:\Mai\VDAB\14.Extra\2.CSharp_DesignPatterns VS2019\Test2\TestSolution\Eiland\obj\Debug\Eiland.csproj.CoreCompileInputs.cache
+D:\Mai\VDAB\14.Extra\2.CSharp_DesignPatterns VS2019\Test2\TestSolution\Eiland\obj\Debug\Eiland.exe
+D:\Mai\VDAB\14.Extra\2.CSharp_DesignPatterns VS2019\Test2\TestSolution\Eiland\obj\Debug\Eiland.pdb
